@@ -1,0 +1,4 @@
+﻿  strset.c
+D:\vs2017Data\24.字符串高级处理\str函数实现\str函数实现\strset.c(25,3): warning C4033: “mystrsetdg”必须返回值
+D:\vs2017Data\24.字符串高级处理\str函数实现\str函数实现\strset.c(34): warning C4716: “mystrsetdg”: 必须返回一个值
+  str函数实现.vcxproj -> D:\vs2017Data\24.字符串高级处理\str函数实现\x64\Debug\str函数实现.exe
